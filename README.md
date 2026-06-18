@@ -19,7 +19,7 @@
 
 I'm a **Software Engineer** with ~2 years of professional experience (including internship) specializing in **Java, Spring Boot, and Angular**. I build secure, scalable full-stack applications with a strong focus on **authentication & authorization**, **microservices architecture**, and **REST API design**.
 
-Currently working at **Arrayscript India** where I contribute to **Quotation Plus** — an enterprise quotation management platform. I implemented **SSO using Keycloak**, secured backend microservices with **OAuth 2.0 & JWT**, and improved application performance through **SQL optimization and caching mechanisms**.
+Currently working at **Arrayscript India** where I contribute to enterprise platforms including **InterPanelly** and **Quotation Plus**. I've implemented **SSO using Keycloak**, integrated **AWS S3**, secured backend microservices with **OAuth 2.0 & JWT**, and improved application performance through **SQL optimization and caching mechanisms**.
 
 I'm passionate about writing clean, maintainable code and building systems that are both performant and secure.
 
@@ -59,8 +59,8 @@ I'm passionate about writing clean, maintainable code and building systems that 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🧰 Tools & Platforms
@@ -77,15 +77,16 @@ I'm passionate about writing clean, maintainable code and building systems that 
 
 ### 🏢 Associate Software Engineer — Arrayscript India *(Aug 2024 – Present)*
 
-Working on **Quotation Plus**, an enterprise-grade quotation management platform used in production.
+Working on enterprise platforms **InterPanelly** and **Quotation Plus** in production.
 
 | Area | Contribution |
 |------|-------------|
-| 🔐 **Authentication** | Implemented SSO via **Keycloak** with OAuth 2.0 & OpenID Connect across microservices |
+| 🔐 **Authentication** | Implemented SSO via **Keycloak** with OAuth 2.0 & OpenID Connect; RBAC for multiple user roles |
 | 🛡️ **API Security** | Secured REST APIs with **JWT-based authorization** and role-based access control (RBAC) |
 | 🏗️ **Architecture** | Designed and maintained backend services in a **microservices architecture** using Spring Boot |
+| ☁️ **Cloud** | Integrated **AWS S3** for secure storage of interview recordings, resumes, and documents |
 | ⚡ **Performance** | Improved application performance through **SQL query optimization** and **caching mechanisms** |
-| 🎨 **Frontend** | Built and secured Angular frontend routes with token-based authentication and refresh flows |
+| 🎨 **Frontend** | Built Angular modules for 4 portals; secured routes with token-based auth and refresh flows |
 | 🔧 **DevOps** | API testing with Postman & JMeter; participated in code reviews and debugging |
 
 ### 🏢 Software Engineering Intern — Arrayscript India *(May 2024 – Aug 2024)*
@@ -97,6 +98,24 @@ Working on **Quotation Plus**, an enterprise-grade quotation management platform
 ---
 
 ## 🔥 Featured Projects
+
+### 🎯 InterPanelly — Interview Management & Audit Platform
+> *Professional Project · Java · Spring Boot · Angular · MySQL · Keycloak · AWS S3 · JWT · REST APIs*
+
+A full-scale SaaS platform enabling organizations to **outsource and manage technical interviews** through a network of qualified panelists, with end-to-end audit and authenticity verification workflows.
+
+**Key Contributions:**
+- 🔧 Built backend services and REST APIs covering **candidate onboarding, interview scheduling, panel assignment, reporting**, and audit workflows
+- 🖥️ Developed responsive Angular modules for **4 distinct portals** — Organization, Panelist, Candidate, and Auditor
+- 🔐 Implemented **Keycloak-based RBAC** to enforce role-specific access across all user types
+- ☁️ Integrated **AWS S3** for secure storage and retrieval of interview recordings, resumes, and supporting documents
+- 🎥 Built **interview recording management** and authenticity verification features for audit workflows
+- ⚡ Optimized database queries and backend processes to improve **platform performance and scalability**
+- 🤝 Collaborated with cross-functional teams to deliver features, bug fixes, and production enhancements
+
+**Tech:** Java · Spring Boot · Angular · MySQL · Keycloak · AWS S3 · JWT · REST APIs · Git
+
+---
 
 ### 📊 Quotation Plus — Enterprise Quotation Management Platform
 > *Professional Project · Spring Boot · Angular · Keycloak · OAuth 2.0 · JWT · MySQL · Microservices*
