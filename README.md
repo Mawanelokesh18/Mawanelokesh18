@@ -4,6 +4,7 @@
 
 ### Associate Software Engineer · Java & Spring Boot Developer · Full Stack Engineer
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mawanelokesh18.github.io/lokesh-portfolio-animated/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokeshmawane)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mawanelokesh18)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/lokeshmawane)
@@ -198,9 +199,9 @@ I'm actively looking for opportunities as a **Java Developer**, **Backend Engine
 
 <div align="center">
 
-| 📧 Email | 💼 LinkedIn | 🐱 GitHub | 🧠 LeetCode |
-|----------|------------|-----------|------------|
-| [lokeshmawane@gmail.com](mailto:lokeshmawane@gmail.com) | [linkedin.com/in/lokeshmawane](https://linkedin.com/in/lokeshmawane) | [github.com/Mawanelokesh18](https://github.com/Mawanelokesh18) | [leetcode.com/lokeshmawane](https://leetcode.com/lokeshmawane) |
+| 📧 Email | 💼 LinkedIn | 🌐 Portfolio | 🐱 GitHub | 🧠 LeetCode |
+|----------|------------|-------------|-----------|------------|
+| [lokeshmawane@gmail.com](mailto:lokeshmawane@gmail.com) | [linkedin.com/in/lokeshmawane](https://linkedin.com/in/lokeshmawane) | [View Portfolio](https://mawanelokesh18.github.io/lokesh-portfolio-animated/) | [github.com/Mawanelokesh18](https://github.com/Mawanelokesh18) | [leetcode.com/lokeshmawane](https://leetcode.com/lokeshmawane) |
 
 </div>
 
